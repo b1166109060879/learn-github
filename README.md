@@ -1,3 +1,3 @@
 # learn-github
 
-hello wolrd Im unacon 
+hello wolrd Im unacon อวยพรไม่ให้ติดปัญหา
